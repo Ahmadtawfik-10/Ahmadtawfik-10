@@ -8,7 +8,7 @@ I'm a software engineer with more than 6 years of experience in full-stack devel
 * 🟢 NodeJS, expressJS
 * 🟣 SQL and NoSQL
 
-
+## Know me better
 
 <a href="https://www.youtube.com/watch?v=Q-CH-64vZuE" target="_blank"><img src="http://img.youtube.com/vi/Q-CH-64vZuE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
