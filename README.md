@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ahmad Tawfik
-I'm a software engineer with more than 6 years of experience in full-stack development, I really like software and architecting it, I admire design patterns and how they help us to find a solution whatever the problem is. I also enjoy building mobile apps for both Android and Ios. You can reach me at https://twitter.com/AhmadTawfik_
+I'm a software engineer with more than 6 years of experience in full-stack development, I really like software and architecting it, I admire design patterns and how they help us to find a solution whatever the problem is. I also enjoy building mobile apps for both Android and Ios. You can reach me at (https://twitter.com/AhmadTawfik_)
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
